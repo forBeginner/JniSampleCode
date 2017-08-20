@@ -8,6 +8,5 @@
 
 JNIEXPORT void JNICALL Java_com_example_asus_android_1jni_1sample_NDK_1Sample_ndkSampleMethod(JNIEnv *, jobject, jstring)
 {
-    LOGD("NDK Test Code\n");
-
+    LOGD("NDK Branch - Test \n");
 }
